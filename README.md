@@ -36,7 +36,8 @@ This project implements a temperature-based fan control system using an Arduino,
 
 ## Circuit Diagram
 
-![Circuit Diagram Placeholder]([image](https://github.com/user-attachments/assets/176b1277-13b8-4732-a102-edd363f58679))  
+![image](https://github.com/user-attachments/assets/2984bce2-d7a2-4ed5-befa-d610bafc61a2)
+
 
 
 ---
