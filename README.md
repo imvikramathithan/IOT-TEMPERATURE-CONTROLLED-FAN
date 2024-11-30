@@ -92,8 +92,8 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 ---
 
-**Author**: [Vikramathithan M]  
-**Email**: [imvikramathithan@gmail.com]  
-**GitHub Profile**: [Your GitHub Profile](https://github.com/imvikramathithan)
+**Author**: Vikramathithan M  
+**Email**: imvikramathithan@gmail.com  
+**GitHub Profile**: [imvikramathithan](https://github.com/imvikramathithan)
 
 ---
